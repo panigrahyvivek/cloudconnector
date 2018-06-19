@@ -1,0 +1,10 @@
+#jco.client.passwd=<< Existing password/certificate removed on export >>
+#
+#Tue Jun 19 21:23:09 UTC 2018
+Name=JE2
+jco.client.lang=EN
+jco.client.client=100
+Type=RFC
+jco.client.user=MOHANTYP
+jco.client.sysnr=06
+jco.client.ashost=phlhdr10.phl.sap.corp
